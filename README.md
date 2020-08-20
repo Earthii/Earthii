@@ -6,5 +6,5 @@ Currently, I'm a Full stack Software Engineer @Breathelife
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=earthii&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true"/>
-  <img src="https://github.com/Earthii/Earthii/blob/master/corgi.gif"  width="240"/>
+  <img src="https://github.com/Earthii/Earthii/blob/master/robo.gif" width="100"/>
 </div>
