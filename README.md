@@ -1,9 +1,10 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Eric (Earthii)</h1>
-<h3 align="center">Full Stack Developer | Node.js ⚡ React 🚀</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>, I'm Eric (Earthii)</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=38C2FF&lines=Full+Stack+Developer;Node.js+%2B+React+Specialist;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,react,graphql,rabbitmq,docker,elasticsearch,git,apollo" />
 </p>
 
 ---
@@ -22,12 +23,6 @@
 
 ---
 
-### 🛠 Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,react,graphql,rabbitmq,docker,elasticsearch,git,apollo" />
-</p>
-
-
 ### 🔥 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Earthii&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
@@ -41,3 +36,4 @@
 </p>
 
 <p align="center">✨ "Code. Break. Learn. Repeat." ✨</p>
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
