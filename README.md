@@ -33,8 +33,5 @@
 <!-- Fun Footer GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </p>
-
-<p align="center">✨ "Code. Break. Learn. Repeat." ✨</p>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
