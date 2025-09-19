@@ -36,4 +36,5 @@
 </p>
 
 <p align="center">✨ "Code. Break. Learn. Repeat." ✨</p>
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
